@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | S Savitha |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/savitha-s-795781296/) |
+| **Location** | Erode, India |
+| **Background** | Full Stack Developer and interested in learning DevOps and cloud technologies |
+| **Goal** | To build strong skills in DevOps, Cloud and software technologies |
 
 ---
 
