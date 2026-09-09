@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | S Savitha |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/savitha-s-795781296/) |
+| **LinkedIn** | https://www.linkedin.com/in/savitha-s-795781296/ |
 | **Location** | Erode, India |
 | **Background** | Full Stack Developer and interested in learning DevOps and cloud technologies |
 | **Goal** | To build strong skills in DevOps, Cloud and software technologies |
