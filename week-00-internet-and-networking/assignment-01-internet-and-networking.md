@@ -25,16 +25,16 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](Week 0.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+Replace `week 0 (1)` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a network protocol is a set of rules that helps devices communicate and exchange data correctly over a network. I also learned about common protocols like HTTP, TCP, IP, and DNS and their basic uses.
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world opens the "EpicReads" website hosted in Finland, the data travels across the Internet using "packet switching". The website data is divided into small packets, and each packet can travel through different routes before reaching the user. The "IP address" identifies the destination of the server and the user’s device, helping routers deliver the packets correctly. "TCP/IP" provides the basic communication rules: IP handles addressing and routing, while TCP ensures that packets are delivered reliably and in the correct order. Once the connection is established, the browser uses "HTTP/HTTPS" to request and receive web pages from the EpicReads server. HTTPS also encrypts the communication, helping protect user information such as login details and payment data. This process allows users globally to access EpicReads smoothly and securely.
+
 
 ---
 
@@ -91,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](Two tier.png)(three tier.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML, CSS
+JavaScript, React.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js, Express.js
+Spring Boot
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MySQL
+PostgreSQL
 
 ---
 
@@ -142,7 +143,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS (Domain Name System) is like the phonebook of the Internet. It converts an easy-to-remember domain name such as epicreads.com into the IP address of the server where the website is hosted. To connect epicreads.com to 52.172.142.222.
+2. A (Address) record should be used because an A record maps a domain name to an IPv4 address. When a user enters epicreads.com in a browser, DNS finds the corresponding IP address, allowing the browser to connect to the EpicReads server.
 
 ---
 
@@ -185,6 +187,7 @@ Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
+
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post
 
 ## Objective
@@ -211,55 +214,64 @@ Use the credit note that matches your track:
 
 Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Savitha20-06.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 
 Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Savitha20-06.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
 
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Savitha20-06.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
 
-Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
+Replace `Savitha20-06` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
 
 ## LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://lnkd.in/p/gQ9Gn3Xd
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
-
-Add your post content here...
-
----
+🚀 Week 0 – DevOps Micro Internship | Learning Journey
+I started my DevOps Micro Internship journey by learning some important fundamentals of software development and networking.
+◆ ChatGPT
+I learned how ChatGPT can be used as a learning assistant to understand technical concepts, improve explanations, and refine my work.
+◆ Internet & Networking
+I learned about network protocols, packet switching, IP addresses, TCP/IP, and HTTP/HTTPS. I understood how data travels between users and servers over the Internet.
+◆ App Architecture
+I learned the difference between Two-Tier and Three-Tier architecture. Two-Tier consists of Frontend and Database, while Three-Tier separates the application into Frontend, Backend, and Database layers.
+◆ DNS
+I learned that DNS (Domain Name System) converts human-readable domain names into IP addresses. I also learned that an A record is used to connect a domain name with an IPv4 address.
+◆ VS Code Setup
+I set up and explored my Visual Studio Code environment, opened the integrated terminal, and executed basic commands such as dir.
+This week helped me strengthen my understanding of networking, application architecture, DNS, and development tools. Looking forward to learning and building more in the coming weeks!
+#DevOps #DMI #DevOpsMicroInternship #LearningJourney #Networking #DNS #VSCode #SoftwareDevelopment #TechJourney
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. 
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning the basic concepts of networking, DNS, application architecture, and using VS Code relatively easy. Creating simple diagrams and understanding the purpose of different technologies was also easy.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how packet switching, TCP/IP, DNS, and different application layers work together was a little difficult at first. I needed to connect the theoretical concepts with real-world examples to understand them better.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve my Linux commands, networking concepts, Git/GitHub skills, and DevOps fundamentals. I also want to gain more hands-on experience by practicing the concepts instead of only learning the theory.
 
 ---
 
@@ -283,3 +295,5 @@ It helps learners build strong DevOps foundations with hands-on experience.
 ---
 
 *This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+
+---
