@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that getting a high-paying job is not the only way to become successful. Many people around me think that a person is successful only if they get a good salary and a job in a big company. I don’t completely agree with that. I believe learning useful skills, becoming independent and improving yourself every day are more important in the long run. A person may earn less in the beginning but can still build a good career if they keep learning and improving.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+I learn better when I actually practice something instead of only reading or watching videos about it.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started preparing for coding and aptitude, I noticed that just watching explanations made me feel like I understood the topic. But when I tried solving questions on my own, I got stuck. After I started practicing questions regularly, I was able to understand and remember the concepts much better.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Small and consistent efforts give better results than trying to do everything at the last minute.
 
 ### Evidence from my life
 
-Add your answer here...
+During my college preparation, I have tried studying many topics in one day before an exam or interview. I could cover the topics, but I couldn't remember everything properly. When I started studying a few topics every day and practicing them, I felt more confident and made fewer mistakes.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Making mistakes is one of the fastest ways for me to understand what I actually don't know.
 
 ### Evidence from my life
 
-Add your answer here...
+While practicing coding and aptitude questions, I have made many mistakes even in topics that I thought I understood. Instead of skipping those questions, I started checking where my approach went wrong and solving them again. I noticed that I usually remembered the concept better after making and correcting the mistake.
 
 ---
 
@@ -145,13 +146,27 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+A few years from now, I see myself as a confident software engineer who has grown a lot from where I started. During my college days, I was still learning the basics and trying to understand which area of IT suited me. I had learned Java, SQL, HTML, CSS, JavaScript, and some backend concepts, but I knew that just learning these skills was not enough. I needed to actually use them in projects and improve through practice.
+
+Over the next few years, I built and completed different projects and added them to my GitHub and portfolio. One of the main projects I worked on was an AI-powered IT Helpdesk Agent. I worked on the RAG part of the project, where the system retrieved relevant information from company documents before giving an answer. I learned how document chunking, embeddings, similarity checking and relevance checking worked. This project helped me understand that building a project is very different from just studying a topic.
+
+I also worked on a Smart Waste Recycling System using IoT and AI concepts. I contributed to the dashboard, APIs, alerts, maps and route-related features. These projects gave me something important — proof that I could build things instead of only saying that I knew a technology.
+
+My GitHub also became more active and organized. I uploaded my projects, improved the README files, documented what I worked on, and kept adding my learning and project progress. I also published a few blogs about the technical topics I learned. Writing about something helped me understand it better because I had to explain it in my own words.
+
+I started my career as a software developer and gradually became more comfortable with backend development, databases, APIs, Git, cloud, and DevOps basics. I worked with a team, attended meetings, participated in discussions, fixed bugs and contributed to real projects. I also helped juniors and friends whenever they had doubts about coding or project work.
+
+One of the biggest changes was in my confidence. Earlier, I used to feel nervous when I didn't know something. Later, I became more comfortable saying that I didn't know it and then learning it. I also became better at explaining my projects during interviews and discussions.
+
+I had faced failures too. Not every interview went well, and not every project worked properly the first time. But those experiences taught me to keep improving instead of giving up.
+
+My 2.0 version was not completely different from the person I was in college. I was still learning, but I had become more confident, consistent and independent. I had real projects, a better GitHub profile, work experience, technical knowledge, and most importantly, proof of the effort I had put in over the years.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+[`Add your URL here`](https://medium.com/@savithasubbusamy20/my-2-0-version-a5ac918493c8)
 
 ---
 
@@ -183,7 +198,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes. I have taken shortcuts sometimes, especially when I was under pressure to finish something quickly. At that time, I felt relieved because the work was completed, but later I felt a little guilty because I knew I had not done it properly. I also worried about what would happen if someone noticed it. It made me realize that taking a shortcut may save time for the moment, but it can create stress later. Since then, I try to complete important work honestly, even if it takes more time.
 
 ---
 
@@ -209,16 +224,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. The Psychology of Money — Morgan Housel
+3. Deep Work — Cal Newport
+4. How to Win Friends and Influence People — Dale Carnegie
+5. The 7 Habits of Highly Effective People — Stephen R. Covey
+6. Ikigai — Héctor García and Francesc Miralles
+7. The Power of Now — Eckhart Tolle
+8. Make Time — Jake Knapp and John Zeratsky
+9. Mindset — Carol S. Dweck
+10. The Almanack of Naval Ravikant — Eric Jorgenson
 
 ---
 
@@ -247,16 +262,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* New skills or concepts learned
+* Coding practice completed
+* Projects completed and documented
+* Interview or aptitude practice
+* Sleep hours
+* Physical activity
+* Daily screen time
+* Focused study hours
+* Personal spending and savings
 
 ---
 
@@ -282,7 +297,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes. I wrote down the things that were running in my mind, including my pending work, career goals, college responsibilities, interview preparation, skills I want to improve and things I was worried about.
 
 ---
 
@@ -300,7 +315,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Friday: 1–2 hours for coding, aptitude, or technical preparation
+Monday–Thursday: 30–45 minutes for DMI or cloud learning
+Saturday: Complete pending DMI work and project work
+Sunday: Review the week's progress and plan the next week
+Daily: Spend some time improving one technical skill
 
 ---
 
@@ -308,11 +327,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Tuesday and Thursday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 session per week
 
 ---
 
@@ -326,7 +346,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away during study sessions.
+Avoid checking Instagram or other social media while studying.
+Use one place mainly for studying so I can stay focused.
+Finish the planned task before taking a long break.
+Avoid switching between multiple tasks at the same time.
 
 ---
 
@@ -334,28 +358,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can learn difficult things when I give them enough time and practice. Most of the time, my problem is not that I cannot learn something, but that I lose focus or become inconsistent.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is procrastination. Sometimes I keep thinking about a task instead of actually starting it and then I feel stressed when the deadline gets closer.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every night at 9:30 PM, I will spend 10 minutes writing down the three most important tasks for the next day. I will try to finish the most important task before spending time on unnecessary things.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://lnkd.in/p/g7iuaqWp  
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/g7iuaqWp  
+- Blog / Medium : https://medium.com/@savithasubbusamy20/my-2-0-version-a5ac918493c8  
 
 ---
 
